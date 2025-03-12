@@ -30,7 +30,7 @@ I was responsible for designing the **user interface (UI)** of the website, ensu
 - **Database:** A manually curated database with 58% small businesses. 
 
 ## 📸 Design
-![Homepage Screenshot](["LateNightEats/Screenshot 2025-03-12 145820.png"](https://github.com/Bugates/LateNightEats/blob/main/Screenshot%202025-03-12%20145820.png))
+![Homepage Screenshot](https://github.com/Bugates/LateNightEats/blob/main/Screenshot%202025-03-12%20145820.png)
 
 ## 📌 How to Run Locally
 ```sh
