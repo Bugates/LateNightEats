@@ -1,9 +1,9 @@
-# Late Night Eats - Food Finder 🍔
+# Late Night Eats - Restaurant Finder 
 
 [Live Website](https://foodfinder-6075.onrender.com/)  |  [GitHub Repository](https://github.com/Bugates/LateNightEats/tree/main)
 
 ## 📌 Project Overview
-**Late Night Eats** is a web application that helps users find nearby food spots open late at night. The platform provides a user-friendly interface to locate restaurants, view their details, and get directions.
+**Late Night Eats** is a web application that helps users find nearby food spots open late at night. The platform provides a user-friendly interface to locate restaurants, view their details, and get directions. It also uplifts and puts a spotlight on smaller businesses.
 
 ## 🎨 UI Design Contribution
 I was responsible for designing the **user interface (UI)** of the website, ensuring a seamless and intuitive experience for users. My focus included:
@@ -30,7 +30,7 @@ I was responsible for designing the **user interface (UI)** of the website, ensu
 - **Database:** A manually curated database with 58% small businesses. 
 
 ## 📸 Design
-![Homepage Screenshot](Screenshot 2025-03-12 145820.png)
+![Homepage Screenshot](["LateNightEats/Screenshot 2025-03-12 145820.png"](https://github.com/Bugates/LateNightEats/blob/main/Screenshot%202025-03-12%20145820.png))
 
 ## 📌 How to Run Locally
 ```sh
