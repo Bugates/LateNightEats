@@ -29,9 +29,8 @@ I was responsible for designing the **user interface (UI)** of the website, ensu
 - **Backend:** Flask backend
 - **Database:** A manually curated database with 58% small businesses. 
 
-## 📸 Screenshots
+## 📸 Design
 ![Homepage Screenshot](link-to-screenshot)
-![Restaurant List Screenshot](link-to-screenshot)
 
 ## 📌 How to Run Locally
 ```sh
