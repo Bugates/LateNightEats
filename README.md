@@ -31,8 +31,8 @@ I was responsible for designing the **user interface (UI)** of the website, ensu
 
 ## 📸 Design
 ![Homepage Screenshot](https://github.com/Bugates/LateNightEats/blob/main/Screenshot%202025-03-12%20145820.png)
-![Homepage Screenshot]()
-![Homepage Screenshot]()
+![Homepage Screenshot](https://github.com/Bugates/LateNightEats/blob/main/Screenshot%202025-03-12%20151606.png)
+![Homepage Screenshot](https://github.com/Bugates/LateNightEats/blob/main/Screenshot%202025-03-12%20151745.png)
 
 ## 📌 How to Run Locally
 ```sh
