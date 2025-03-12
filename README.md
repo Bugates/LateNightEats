@@ -30,7 +30,7 @@ I was responsible for designing the **user interface (UI)** of the website, ensu
 - **Database:** A manually curated database with 58% small businesses. 
 
 ## 📸 Design
-![Homepage Screenshot](link-to-screenshot)
+![Homepage Screenshot](![image](https://github.com/user-attachments/assets/a67c884c-e66f-479c-8201-aa3fcc142d8e))
 
 ## 📌 How to Run Locally
 ```sh
