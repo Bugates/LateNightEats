@@ -12,6 +12,12 @@ I was responsible for designing the **user interface (UI)** of the website, ensu
 - Ensuring **accessibility** and **mobile compatibility**.
 - Styling components with **CSS and frontend frameworks**.
 
+### 🛠️ Flask Backend  
+- Developed and structured the **Flask backend** to handle restaurant data.  
+- Set up **routes and API endpoints** for fetching and displaying restaurant information.  
+- Managed **database integration** and data retrieval for restaurant listings.  
+- Ensured efficient **data handling and server response times**.  
+
 ## 🚀 Features
 - **Find Late-Night Restaurants** based on location and availability.
 - **User-Friendly Interface** with an intuitive design.
@@ -20,8 +26,8 @@ I was responsible for designing the **user interface (UI)** of the website, ensu
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript (UI/UX Design)
-- **Backend:** [Include backend stack if applicable]
-- **Database:** [Mention database used if applicable]
+- **Backend:** Flask backend
+- **Database:** A manually curated database with 58% small businesses. 
 
 ## 📸 Screenshots
 ![Homepage Screenshot](link-to-screenshot)
