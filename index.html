@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Late Night Eats</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Late Night Eats</h1>
+
+        <!-- Chatbox -->
+        <div id="chatbox" class="chatbox">
+            {% if results %}
+                {% for result in results %}
+                    <div class="bot-message bot-response">
+                        <strong>{{ result.name }}</strong>: {{ result.description }} ({{ result.price }})
+                    </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+
+        <!-- Input Container -->
+        <div class="input-container">
+            <input type="text" id="user-input" placeholder="Type your message here..." />
+            <button id="send">Send</button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
